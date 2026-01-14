@@ -1,4 +1,7 @@
-# claude-code-wrapper
+# Tired of waiting 2s for claude code to start?
+
+Put this snippet in your bashrc/zshrc.
+It will immediately prompt your for your input and then startup & thinking time is pooled together, which is much less annoying IMO.
 
 ```bash
 # Prompt for task with multiline input support
