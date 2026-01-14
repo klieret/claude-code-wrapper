@@ -40,7 +40,7 @@ _prompt_for_task() {
     fi
 }
 
-# cc: Claude with fast proimpt
+# cc: Claude with fast prompt
 function cc() {
     local task
     task=$(_prompt_for_task) || return 1
