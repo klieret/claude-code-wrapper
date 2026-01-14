@@ -49,3 +49,7 @@ function cc() {
     fi
 }
 ```
+
+> [!tip]
+> * You can also add `--add-dir .` to the `claude` command so that claude doesn't prompt you for permission to work in the current directory.
+> * You can also do `alias claude="cc"` to make cc replace the normal claude invokation
